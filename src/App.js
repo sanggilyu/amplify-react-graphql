@@ -106,3 +106,4 @@ const App = ({ signOut }) => {
 
 export default withAuthenticator(App);
 // for just commit 1
+// for just commit 2
